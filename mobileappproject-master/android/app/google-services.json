@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1028438769399",
+    "firebase_url": "https://map-myfashionapp.firebaseio.com",
+    "project_id": "map-myfashionapp",
+    "storage_bucket": "map-myfashionapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028438769399:android:3182ac72158386b09f1df2",
+        "android_client_info": {
+          "package_name": "edu.uco.enyarangi.myfashionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028438769399-qk7vmt277ea3us8hl11sfspmijg0on2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3to-CMVQR4M80yf7yE8xQS9wq7r_JugI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028438769399-qk7vmt277ea3us8hl11sfspmijg0on2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
